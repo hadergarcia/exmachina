@@ -1,0 +1,26 @@
+<?php
+	if (isset($_POST['submit'])) {
+		if (empty($Nombres)) {
+			echo "<p class='error'>*Agrega nombre </P>";
+		}
+		if (empty($Apellidos)) {
+			echo "<p class='error'>*Agrega Apellidos </P>";
+		}
+		if (empty($telefono)) {
+			echo "<p class='error'>*Agrega telefono </P>";
+		}
+		if (empty($correo)) {
+			echo "<p class='error'>*Agrega correo </P>";
+		}
+		if (empty($asunto)) {
+			echo "<p class='error'>*Agrega Asunto </P>";
+		}				}
+		if (empty($mensaje)) {
+			echo "<p class='error'>*Agrega mensaje </P>";
+}
+	
+
+
+
+
+  ?>
