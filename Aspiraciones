@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<!--
+	Ex Machina by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Ex Machina by TEMPLATED</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	<body class="no-sidebar">
+
+	<!-- Header -->
+		<div id="header">
+			<div class="container">
+					
+				<!-- Logo -->
+					<div id="logo">
+						<h1><a href="#">Aspiraciones</a></h1>
+					</div>
+				
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Inicio</a></li>
+							
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+	<!-- Header -->
+		
+	<!-- Banner -->
+		<div id="Aspiraciones">
+			<div class="container">
+			</div>
+		</div>
+	<!-- /Banner -->
+
+	<!-- Main -->
+		<div id="page">
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+
+					<p>Mis aspiraciones son terminar la ingenieria de sistemas, con el tiempo poder tener mi propio negocio ser independiente, me gustaria tener una familia realizar algunos sueños que tengo desde niño, poder ayudar a otras personas, al igual me gustaria concoer algunos paises y otras culturas.</p> 
+
+					<div><img src="images/h5.jpeg"></div>
+					
+					
+					
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>
+	<!-- /Main -->
+
+	<!-- Featured -->
+		<div id="featured">
+			
+		</div>
+	<!-- /Featured -->
+
+	<!-- Footer -->
+		<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							<h2>Contacto </h2>
+							<div class="balloon">
+								<blockquote>instagram: <p>hader96</p>
+								<blockquote>twitter: <p>hader96</p>
+								<blockquote>telefono: <p>3164338053</p>
+								<blockquote>correo: <p>haderstiven@hotmail.com</p>
+									<br>
+									<strong>&ndash;&nbsp;&nbsp;Hader Augusto Garcia Ardila</strong></blockquote>
+							</div>
+							<div class="ballon-bgbtm">&nbsp;</div>
+						</section>
+					</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
