@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<!--
+	Ion by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Formulario</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+	</head>
+	<body id="no-sidebar">
+<div id="header">
+			<div class="container">
+				<div id="logo">
+						<h1><a href="#">Perfil Profesional y Personal</a></h1>
+					</div>
+				<nav id="nav">
+						<ul>
+							<li><a href="index.html">Profesional</a></li>
+							<li class="active"><a href="no-sidebar.html">contacto</a></li>
+						</ul>
+					</nav>
+
+			</div>
+		</div>
+
+
+		<div id="page">
+				
+			<!-- Main -->
+			<div id="main" class="container">
+				<div class="row">
+
+					<div class="9u skel-cell-important">
+						<section>
+							<header>
+								<h2>Formulario</h2>
+							</header>
+	<p id= "parrafo1">
+		<form method="post" action ="validacion.php">
+	<label>Nombre:<input type="text" name="Nombre"></label><br>
+	<label>Apellido:<input type="text" name="Apellido"></label><br>
+	<label>Correo:<input type="text" name="Correo"></label><br>
+	<label>Telefono:<input type="text" name="Telefono"></label><br>
+	<label>Mensaje:<textarea name="Mensaje"></textarea></label><br>
+	<br>
+	<br>
+	<input type="submit" name="Enviar">
+	</form>
+	<br>
+	<br>
+	</p>
+		
+</section>
+					</div>
+					
+				</div>
+			</div>
+			<!-- Main -->
+
+		</div>	
+	<!-- Footer -->
+			<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							<h2>Contacto </h2>
+							<div class="balloon">
+								<blockquote>instagram: <p>hader96</p>
+								<blockquote>twitter: <p>hader96</p>
+								<blockquote>telefono: <p>3164338053</p>
+								<blockquote>correo: <p>haderstiven@hotmail.com</p>
+									<br>
+									<strong>&ndash;&nbsp;&nbsp;Hader Augusto Garcia Ardila</strong></blockquote>
+							</div>
+							<div class="ballon-bgbtm">&nbsp;</div>
+						</section>
+					</div>
+					
+					
+					
+				</div>
+			</div>
+		</div>
+
+	
+
+	</body>
+</html>
